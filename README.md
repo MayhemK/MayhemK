@@ -13,12 +13,6 @@ I'm **YOUR_FULL_NAME**, a brief description about yourself!
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=MayhemK&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MayhemK&theme=radical" alt="GitHub Trophies" />
   </a>
