@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **YOUR_FULL_NAME**, a brief description about yourself!
+I'm Ivan, aka MayhemK, An aspiring developer. after an intro forray into full stack web development, of which I am still working on and honing my skills, I have decided to switch into game development along side to continue the creative process! 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
