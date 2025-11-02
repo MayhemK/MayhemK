@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, My name is Ivan, aka MayhemK 👋
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayhemK&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayhemK&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=MayhemK&theme=radical)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MayhemK&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **MayhemK/MayhemK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
